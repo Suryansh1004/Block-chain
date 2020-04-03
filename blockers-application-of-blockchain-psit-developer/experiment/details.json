@@ -1,0 +1,46 @@
+{
+
+   "details": [
+       {
+			"Experiment": "Practical Demonstration (Application) of blockchain",        // Write your experiment name inside the quotes      
+			"Lab": "Blockchain",               // Write your lab name inside the quotes
+			"Discipline": "Computer Science",				    // Write discipline name to which experimet belongs inside the quotes
+			"Technology": "Blockchain"                          // Write technologies used inside the quotes
+       }
+   ],
+
+   "developer": [
+       {       
+      "Developer": "Rajat Verma",                                // Write the name of the developer inside the quotes
+      "Institute": "Pranveer Singh Institute of Technology",     // Write your institute name inside the quotes
+      "InstituteAcronym": "P.S.I.T."                             // Write acronym of the institute inside the quotes
+       }
+   ],
+
+   "contributer": [
+       {       
+			"Contributer": "Simran Singh",                       // Write the name of the first contributer inside the quotes
+      "Institute": "Pranveer Singh Institute of Technology",     // Write your institute name inside the quotes
+			"InstituteAcronym": "P.S.I.T."                       // Write acronym of the institute inside the quotes
+       },
+
+       {       
+			"Contributer": "Shreyas Mishra",                     // Write the name of the second contributer inside the quotes
+      "Institute": "Pranveer Singh Institute of Technology",     // Write your institute name inside the quotes
+			"InstituteAcronym": "P.S.I.T."                       // Write acronym of the institute inside the quotes
+       },
+
+       {       
+			"Contributer": "Vaibhav Mantri",                     // Write the name of the third contributer inside the quotes
+      "Institute": "Pranveer Singh Institute of Technology",     // Write your institute name inside the quotes
+			"InstituteAcronym": "P.S.I.T."                       // Write acronym of the institute inside the quotes
+       },
+
+       {       
+			"Contributer": "Suryansh Tripathi",                  // Write the name of the fourth contributer inside the quotes
+      "Institute": "Pranveer Singh Institute of Technology",     // Write your institute name inside the quotes
+			"InstituteAcronym": "P.S.I.T."                       // Write acronym of the institute inside the quotes
+       }
+   ]
+
+}

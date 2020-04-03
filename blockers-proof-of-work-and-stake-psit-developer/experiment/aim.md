@@ -1,0 +1,2 @@
+In this experiment, the user will learn about Proof of Stake and Proof of Work. The simulator will demonstrate the working of both these algorithms 
+by one short example of each concept. Apart from that, he/she will also be able to recall concepts with the help of a Fill in the Blanks exercise.

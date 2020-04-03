@@ -1,0 +1,2 @@
+In this experiment, the user will learn about mining in blockchain i.e. how a transaction is validated and added into a blockchain.
+    He/she will learn how the process of hashing helps in validation of a block.He/she will also get to know which miner is rewarded when a block is validated and added to the blockchain.
